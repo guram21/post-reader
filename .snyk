@@ -1624,3 +1624,5 @@ patch:
         patched: '2020-12-01T16:04:06.602Z'
     - snyk > snyk-python-plugin > snyk-poetry-lockfile-parser > @snyk/dep-graph > graphlib > lodash:
         patched: '2020-12-01T16:04:06.602Z'
+    - snyk > @snyk/fix > @snyk/dep-graph > graphlib > lodash:
+        patched: '2021-03-31T21:51:11.984Z'
