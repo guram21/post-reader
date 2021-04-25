@@ -10,7 +10,7 @@
     "minimist": "^1.2.5",
     "react": "^16.14.0",
     "react-dom": "^16.14.0",
-    "react-scripts": "4.0.2",
+    "react-scripts": "4.0.3",
     "snyk": "^1.520.0"
   },
   "scripts": {
